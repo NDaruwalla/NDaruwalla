@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-- 🔭 I’m currently working on building my web development.
+- 🔭 I’m currently working on building my web development portfolio.
 - 🌱 I’m currently learning React and AWS.
 
 <!--
