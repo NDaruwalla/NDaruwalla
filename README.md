@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on building my web development portfolio.
 - 🌱 I’m currently learning React and AWS.
 - ⚡ Fun fact: I was inspired to learn web development after taking my 11-year-old son to a coding workshop at a local library.
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndaruwalla&theme=blue-green" />
 <!--
 **NDaruwalla/ndaruwalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
